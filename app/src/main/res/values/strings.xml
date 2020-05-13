@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Receiver-and-Notification</string>
+
+    <string name="reply">Reply With Mail</string>
+    <string name="load">Load Contacts</string>
+    <string name="numero">Number</string>
+    <string name="nom">Name</string>
+</resources>
